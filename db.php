@@ -1,2 +1,5 @@
-<?php
-echo '码云';
+﻿<?php
+return array(
+'id'=>1,
+'name'=>'xiaowang'	
+);
