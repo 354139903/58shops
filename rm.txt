@@ -4,6 +4,11 @@ echo time();
 
 dump("123");
 
+echo 123;
+
+
+
+
 
 
 
