@@ -16,6 +16,9 @@ namespace Admin\Controller;
 
 use Think\Page;
 use Think\Verify;
+use Think\lib;
+
+
 
 class AdminController extends BaseController {
 
